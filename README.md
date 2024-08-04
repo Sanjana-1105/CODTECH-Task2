@@ -11,6 +11,7 @@
 ### Project: BLogging PLATFORM
 
 ### Objective
+The objective is to build a secure, reliable, and user-friendly dynamic website that allows users to sign up, create, edit, and delete blog posts, and add comments, with a responsive design that works well across various devices.
 
 ### Activities
 -**Implementing secure user authentication**
