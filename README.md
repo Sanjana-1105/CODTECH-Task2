@@ -33,3 +33,9 @@ Develop a Python-based tool to identify common vulnerabilities (e.g., SQL Inject
 1. Install dependencies:
    ```bash
    pip install requests beautifulsoup4
+
+---
+
+### CMD 
+```bash
+python vulnerability_scanner.py
