@@ -1,7 +1,7 @@
 # CODTECH-Task2
 **Name:** SANJANA PUROHIT
 **Company:** CODTECH IT SOLUTIONS
-**ID:** CT12DS467
-**Domain:** Web Development
-**Duration:** 5th June to 5th Auguest 2024
-**Mentor:** SRAVANI GOUNI
+**ID:** CT08DL1470
+**Domain:** Cyber Security & Ethical Hacking
+**Duration:** 30th May to 30th July 2025
+**Mentor:** Neela Kumar
