@@ -7,10 +7,7 @@
 **Mentor:** Neela Kumar
 
 
-### Task 2 – Web Vulnerability Scanner
-
-```markdown
-# CODTECH Task 2 – Web Application Vulnerability Scanner
+# Task 2 – Web Vulnerability Scanner
 
 ### 🔍 Objective
 Develop a Python-based tool to identify common vulnerabilities (e.g., SQL Injection, XSS) in web applications.
